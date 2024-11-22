@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**YasithRuwantha/YasithRuwantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Welcome to My GitHub Profile! 👋
 
-Here are some ideas to get you started:
+![Header](https://your-image-link.com/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning Kotlin.
+- 🔭 I’m working on gun range and airsoft range website projects.
+- 🎮 I enjoy gaming and exploring new tech!
+
+## 🔥 GitHub Stats
+![Yasith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 🌟 Skills
+- Programming: `Kotlin`, `JavaScript`, `HTML/CSS`
+- Tools: `Git`, `VS Code`, `Figma`
+
+## 📫 How to Reach Me
+- **Email:** your-email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+---
+
+## 🛠 Tools I Use
+![Tools](https://skillicons.dev/icons?i=git,kotlin,js,html,css,vscode,figma)
+
+---
+
+## 💖 Support My Work
+If you find my projects helpful, consider giving a ⭐ to my repositories!
