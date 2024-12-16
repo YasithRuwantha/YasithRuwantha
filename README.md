@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# Welcome to My GitHub Profile! 👋
+<# Welcome to My GitHub Profile! 👋>
 
 ## 📫 How to Reach Me
 - **Email:** yasithruwantha119@gmail.com
