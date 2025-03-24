@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yasith Perera</h1>
 <h3 align="center">A passionate Web and Application developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithruwantha&label=Profile%20views&color=0e75b6&style=flat" alt="yasithruwantha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasithruwantha&label=Profile%20views&color=0e75b6&style=flat" alt="yasithruwantha" /> </p>
 
-- 📫 How to reach me **yasithruwantha119@gmail.com**
+<p align="center"> 📫 How to reach me: <strong>yasithruwantha119@gmail.com</strong></p>
 
-- ⚡ Fun fact **I like gaming**
+<p align="center"> ⚡ Fun fact: <strong>I like gaming</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
