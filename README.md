@@ -9,8 +9,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/yasith perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasith perera" height="30" width="40" /></a>
-<a href="https://instagram.com/yo_si_th_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yo_si_th_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasith perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[yasith perera](https://www.linkedin.com/in/yasith-perera-901ab61b1/)" height="30" width="40" /></a>
+<a href="https://instagram.com/yo_si_th_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[yo_si_th_](https://www.instagram.com/yo_si_th_/?hl=en)" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
