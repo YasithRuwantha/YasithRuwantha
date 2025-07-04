@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasith Ruwantha</h1>
 <h3 align="center">A passionate Web and Application developer</h3>
 <br>
+[![](https://visitcount.itsvg.in/api?id=YasithRuwantha&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 <p align="center">📫 How to reach me: <strong>yasithruwantha119@gmail.com</strong></p><br>
 <p align="center">⚡ Fun fact: <strong>I like gaming</strong></p>
 
@@ -27,7 +28,7 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YasithRuwantha&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
