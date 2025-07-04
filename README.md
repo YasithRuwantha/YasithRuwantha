@@ -1,3 +1,25 @@
+<h1 align="center">Hi 👋, I'm Yasith Ruwantha</h1>
+<h3 align="center">A passionate Web and Application developer</h3>
+
+<p align="center">📫 How to reach me: <strong>yasithruwantha119@gmail.com</strong></p>
+<p align="center">⚡ Fun fact: <strong>I like gaming</strong></p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/yasith-perera-901ab61b1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasith linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/yo_si_th_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yo_si_th_" height="30" width="40" />
+  </a>
+</p>
+
+
+
+
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yo_si_th_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasith-perera-901ab61b1) 
