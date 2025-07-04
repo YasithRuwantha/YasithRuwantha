@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasith Ruwantha</h1>
 <h3 align="center">A passionate Web and Application developer</h3>
-
-<p align="center">📫 How to reach me: <strong>yasithruwantha119@gmail.com</strong></p>
+<br><br>
+<p align="center">📫 How to reach me: <strong>yasithruwantha119@gmail.com</strong></p><br><br>
 <p align="center">⚡ Fun fact: <strong>I like gaming</strong></p>
 
 <h3 align="center">Connect with me:</h3>
