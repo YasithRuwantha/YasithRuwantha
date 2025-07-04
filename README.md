@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasith Ruwantha</h1>
 <h3 align="center">A passionate Web and Application developer</h3>
-<br><br>
-<p align="center">📫 How to reach me: <strong>yasithruwantha119@gmail.com</strong></p><br><br>
+<br>
+<p align="center">📫 How to reach me: <strong>yasithruwantha119@gmail.com</strong></p><br>
 <p align="center">⚡ Fun fact: <strong>I like gaming</strong></p>
 
 <h3 align="center">Connect with me:</h3>
@@ -15,16 +15,6 @@
 </p>
 
 
-
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yo_si_th_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasith-perera-901ab61b1) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Yasith-Ruwantha) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasithruwantha119@gmail.com) 
 
 <div align="center">
 
